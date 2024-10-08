@@ -2,7 +2,7 @@
 <h1>Order Site - Simple App</h1>
 This is a simple Node.js-based order site where users can place an order, and the application sends an email confirmation using Nodemailer.
 
-Features
+#Features
 Allows users to place orders through a simple form.
 Sends an email confirmation to the user using the Nodemailer library.
 Easy-to-understand structure with Node.js and Express.
