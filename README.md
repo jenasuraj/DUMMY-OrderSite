@@ -7,12 +7,18 @@ This is a simple Node.js-based order site where users can place an order, and th
 Allows users to place orders through a simple form.
 Sends an email confirmation to the user using the Nodemailer library.
 Easy-to-understand structure with Node.js and Express.
-Technologies Used
+<br>
+
+<h2>Technologies Used</h2>
+<br>
 Node.js: JavaScript runtime for building the backend server.
 Express.js: Framework for routing and handling requests.
 Nodemailer: Library to send emails via SMTP.
 HTML/CSS: For basic frontend design of the order form.
-Prerequisites
+<br>
+
+<h2>Prerequisites</h2>
+<br>
 Before running the app, ensure you have the following installed:
 
 Node.js
