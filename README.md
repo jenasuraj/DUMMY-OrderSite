@@ -1,5 +1,5 @@
 
-Order Site - Simple App
+<h1>Order Site - Simple App</h1>
 This is a simple Node.js-based order site where users can place an order, and the application sends an email confirmation using Nodemailer.
 
 Features
