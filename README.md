@@ -29,6 +29,6 @@ Installation and Setup
 <h2>Clone the repository:</h2>
 
 <br>
-git clone https://github.com/your-username/order-site-simple-app.git
-cd order-site-simple-app
+git clone git@github.com:jenasuraj/DUMMY-OrderSite.git
+
 
